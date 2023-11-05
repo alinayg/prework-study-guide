@@ -3,7 +3,7 @@
 ## Description
 My motivation to create this project was to have a better understanding on how to use github and the git flow process. Creating this website helped with understanding various topics such as HTML,CSS,JAVASCRIPT and GIT. This website helps solve the problem of taking notes for the main corse work to come. While making this website I learned a lot about how git works and how to use it to make changes to the main banch without messing it up.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
